@@ -1,0 +1,26 @@
+{
+ "caa": {
+  "bbq": {
+   "layer": 12.0,
+   "coef": -0.1,
+   "coef_mode": "rel"
+  },
+  "ss": {
+   "layer": 10.0,
+   "coef": -0.5,
+   "coef_mode": "rel"
+  }
+ },
+ "fairsteer": {
+  "bbq": {
+   "layer": 16.0,
+   "coef": -0.3,
+   "coef_mode": "rel"
+  },
+  "ss": {
+   "layer": 20.0,
+   "coef": -0.8,
+   "coef_mode": "rel"
+  }
+ }
+}

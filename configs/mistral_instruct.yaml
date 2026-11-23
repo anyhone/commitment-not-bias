@@ -1,0 +1,7 @@
+name: mistral_instruct
+model_id: mistralai/Mistral-7B-Instruct-v0.3
+revision: c170c708c41dac9275d15a8fff4eca08d52bab71   # pinned model revision (downloaded on 23/10/2026)
+template_kwargs: {}
+batch_size_mc: 8
+batch_size_ll: 16
+layers: [8, 10, 12, 14, 16, 18, 20, 22, 24]

@@ -1,0 +1,7 @@
+name: qwen
+model_id: Qwen/Qwen3.5-9B
+revision: c202236235762e1c871ad0ccb60c8ee5ba337b9a   # pinned model revision
+template_kwargs: {enable_thinking: false}   # thinking disabled everywhere (extraction, probe, evaluation)
+batch_size_mc: 4
+batch_size_ll: 8
+layers: [8, 10, 12, 14, 16, 18, 20, 22, 24]

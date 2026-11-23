@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+logs/
+data/*.parquet
+data/bbq/
+results/*/baseline*/
+results/*/eval/
+results/*/vectors.pt
+results/*/probes*/*.pt
+results/*/report/*.png
